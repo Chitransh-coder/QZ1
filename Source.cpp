@@ -12,8 +12,8 @@ int main() {
 	cin >> gender;
 	cout << "So, you're a " << age << " years old " << gender << "\n";
 	cout << "Ok, Let's start the game!\n";
-	cout << "Here is your 1st Question\nWhat is the Rotational Speed of The Earth?";
-	cout << "And your Options are:1) 30 m/s\t2) 45 m/s\t3) 10 m/s\t4) 50 m/s\nWrite your answer:\n";
+	cout << "Here is your 1st Question\nWhat is the Rotational Speed of The Earth?\n";
+	cout << "And your Options are:\n1) 30 m/s\t2) 45 m/s\t3) 10 m/s\t4) 50 m/s\nWrite your answer:\n";
 	cin >> ans;
 	if (ans != 1)
 	{
